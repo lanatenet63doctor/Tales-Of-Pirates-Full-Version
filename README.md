@@ -238,4 +238,4 @@ This repository serves as the official landing page for Tales of Pirates. The so
 **Get the most recent version of Tales of Pirates today!**
 
 ---
-**Last updated:** 2026-09-28 10:34:02 UTC
+**Last updated:** 2026-09-28 18:26:47 UTC
